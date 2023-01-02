@@ -10,7 +10,8 @@
 **### Online Tools**
 
 - [AI Background Remover](https://icons8.com/bgremover)AI Background Remover : ($0.20 per image)
-- [selfie2anime](https://selfie2anime.com/)Anime Image Maker with AI 
+- [Canva](https://www.canva.com) : Design tool online 
+- [selfie2anime](https://selfie2anime.com/) : Anime Image Maker with AI 
 
 **### Creative Inspiration**
 
