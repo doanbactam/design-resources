@@ -15,7 +15,7 @@
 **### Creative Inspiration**
 
 - [Dribbble](https://dribbble.com/) : Discover the World’s Top Designers &amp; Creative Professionals
-- [UsePanda](https://app.usepanda.com/)Daily news and inspiration for designers, developers and entrepreneurs
+- [UsePanda](https://app.usepanda.com/) : Daily news and inspiration for designers, developers and entrepreneurs
 
 **### Free images**
 
